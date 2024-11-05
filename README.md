@@ -13,7 +13,7 @@ Sto costruendo il mio profilo attraverso progetti di visualizzazione e analisi d
 - **Descrizione**: Questo progetto esplora l'analisi delle vendite per categoria di prodotto, il monitoraggio delle performance di un'azienda come Walmart in USA.
 - **Dataset**: "Sample Superstore Dataset"
 - **Obiettivo**: L'obiettivo è identificare le tendenze di vendita, scoprire opportunità di miglioramento della redditività e avere una panoramica chiara dei profitti per ogni State/ Region.
-- **Link al progetto**: [Visualizza il progetto su Tableau Public]([https://public.tableau.com/views/tuo_progetto](https://prod-uk-a.online.tableau.com/#/site/gabridima7-b481b7ec6f/views/SampleSuperstoresales/Overview?:iid=3))
+- **Link al progetto**: [Visualizza il progetto su Tableau Public] (https://prod-uk-a.online.tableau.com/t/gabridima7-b481b7ec6f/views/SampleSuperstoresales/Overview)
 
 ---
 
