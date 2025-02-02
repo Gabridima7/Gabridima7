@@ -2,8 +2,8 @@
 
 ## 👋 Benvenuti nel mio profilo GitHub!
 
-Sono un aspirante **Data Analyst** con un forte interesse per l'analisi dei dati, specialmente nel settore sportivo. 
-Sto costruendo il mio profilo attraverso progetti di visualizzazione e analisi dati utilizzando strumenti come **Tableau**, **Python**, **Excel** e **SQL**. Attualmente sto completando un corso di specializzazione in data analysis per consolidare le mie competenze e iniziare una carriera in questo settore.
+Sono un **Data Analyst**.
+Sto costruendo il mio profilo attraverso progetti di visualizzazione e analisi dati utilizzando strumenti come **Tableau**, **Python**, **Excel** e **SQL**. 
 
 ---
 
